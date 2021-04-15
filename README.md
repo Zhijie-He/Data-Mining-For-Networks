@@ -10,3 +10,5 @@ each IP address under the form of a small graph, called graphlet. We then build
 a model using Support Vector Machine to distinguish normal from malicious
 end hosts from an annotated trace. The last step will be to try to detect attack
 in a not annotated trace.
+
+![image](https://user-images.githubusercontent.com/80511292/114938628-a0a18400-9e3f-11eb-8820-38523b2eabbe.png)
